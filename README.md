@@ -112,7 +112,7 @@ You are free to share and adapt the material, provided you give appropriate cred
 - Midterm presentation: [Link if available]  
 - Design docs / flow diagrams: [Optional if you created any]
 - [Mifos Initiative](https://mifos.org/)  
-- [C4GT Program](https://c4gt.open.in/)  
+- [C4GT Program](https://c4gt.open.in/](https://codeforgovtech.in/)  
 - [Mobile Wallet Repository](https://github.com/openMF/mobile-wallet)  
 - [Android Client Repository](https://github.com/openMF/android-client)  
 
