@@ -101,10 +101,20 @@ For future contributors:
 
 ---
 
-## 6. References
+## 6. License
+This documentation is licensed under the  
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](./LICENSE.md).  
+
+You are free to share and adapt the material, provided you give appropriate credit.
+
+## 7. References
 - Jira tickets: [MIFOSAC-449](link), [MW-252](link), [MW-255](link)  
 - Midterm presentation: [Link if available]  
 - Design docs / flow diagrams: [Optional if you created any]
+- [Mifos Initiative](https://mifos.org/)  
+- [C4GT Program](https://c4gt.open.in/)  
+- [Mobile Wallet Repository](https://github.com/openMF/mobile-wallet)  
+- [Android Client Repository](https://github.com/openMF/android-client)  
 
 ---
 
