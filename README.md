@@ -108,9 +108,8 @@ This documentation is licensed under the
 You are free to share and adapt the material, provided you give appropriate credit.
 
 ## 7. References
-- Jira tickets: [MIFOSAC-449](link), [MW-252](link), [MW-255](link)  
+- Jira tickets: [MW-211](https://mifosforge.jira.com/browse/MW-211)
 - Midterm presentation: [Link if available]  
-- Design docs / flow diagrams: [Optional if you created any]
 - [Mifos Initiative](https://mifos.org/)  
 - [C4GT Program](https://codeforgovtech.in/)  
 - [Mobile Wallet Repository](https://github.com/openMF/mobile-wallet)  
