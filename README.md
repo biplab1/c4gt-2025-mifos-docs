@@ -4,7 +4,7 @@
 This document summarizes my contributions during the C4GT 2025 program under the Mifos Initiative.  
 I worked on two main projects:  
 - **Android Client (openmf/android-client)** – Migrating feature modules to **Compose Multiplatform (CMP)**.  
-- **Mobile Wallet / Mifos Pay (openmf/mobile-wallet)** – Implementing **UPI payment flows** and setting up future modules (e.g., AutoPay, Bank Transfers, Merchant Payments).
+- **Mobile Wallet / Mifos Pay (openmf/mobile-wallet)** – Implementing **UPI payment flows** and setting up future modules (e.g., AutoPay, Bank Transfers, Customer/ Merchant Payments).
 
 ---
 
