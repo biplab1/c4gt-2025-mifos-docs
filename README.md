@@ -86,7 +86,7 @@ _(More PRs linked in weekly updates)_
 
 ## 3. Weekly Progress
 Detailed week-by-week updates are available [here](https://github.com/openMF/mobile-wallet/issues/1852#issuecomment-2950151917).  
-(Summarized in PRs above; includes Week 1 → Week 12 breakdown.)
+(Summarized in PRs above; includes Week 1 → Week 14 breakdown.)
 
 ---
 
