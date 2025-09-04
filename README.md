@@ -113,7 +113,7 @@ You are free to share and adapt the material, provided you give appropriate cred
 
 ## 7. References
 - Jira tickets: [MW-211](https://mifosforge.jira.com/browse/MW-211)
-- Midterm presentation: [Biplab_Dutta_C4GT_2025_Midpoint_Slides](Biplab_Dutta_C4GT_2025_Midpoint_Slides)  
+- Midterm presentation: [Biplab_Dutta_C4GT_2025_Midpoint_Slides](Biplab_Dutta_C4GT_2025_Midpoint_Slides.pdf)  
 - [Mifos Initiative](https://mifos.org/)  
 - [C4GT Program](https://codeforgovtech.in/)  
 - [Mobile Wallet Repository](https://github.com/openMF/mobile-wallet)  
