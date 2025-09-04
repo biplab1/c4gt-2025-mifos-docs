@@ -30,7 +30,7 @@ I worked on two main projects:
 - [#2401](https://github.com/openMF/android-client/pull/2401) – Migrate client module to CMP  
 - [#2415](https://github.com/openMF/android-client/pull/2415) – Fix identifiers empty state & dialog layout  
 - [#2430](https://github.com/openMF/android-client/pull/2430) – Merge ViewModels, add charge validation  
-- [#2433](https://github.com/openMF/android-client/pull/2433) – Implement Pinpoint Map dialog  
+- [#2433](https://github.com/openMF/android-client/pull/2433) – Fix Client Pinpoint & implement Pinpoint Map dialog  
 
 _(More PRs linked in weekly updates)_  
 
@@ -70,12 +70,16 @@ _(More PRs linked in weekly updates)_
 - [#1903](https://github.com/openMF/mobile-wallet/pull/1903) – Add basic UPI payment support (draft)  
 - [#1906](https://github.com/openMF/mobile-wallet/pull/1906) – Implement Pay Anyone (draft)  
 - [#1907](https://github.com/openMF/mobile-wallet/pull/1907) – Add Bank Transfers (draft)  
-- [#1908](https://github.com/openMF/mobile-wallet/pull/1908) – Setup AutoPay feature (draft)  
+- [#1908](https://github.com/openMF/mobile-wallet/pull/1908) – Setup AutoPay feature (draft)
+- [#1909](https://github.com/openMF/mobile-wallet/pull/1909) - implement autopay dashboard (draft)
+- [#1910](https://github.com/openMF/mobile-wallet/pull/1910) - biller and bills setup (draft)
+- [#1912](https://github.com/openMF/mobile-wallet/pull/1912) - see all; sorting; empty state; per-tab scroll; top bar
+- [#1913](https://github.com/openMF/mobile-wallet/pull/1913) - resolve overlapping screens during transitions
 
 ### Learnings
 - UPI payment flow design & integration patterns.  
 - Mapping frontend flows to backend orchestration.  
-- Drafting extensible KMP modules (Merchant Payments, Loan Sandbox).  
+- Drafting extensible KMP modules (Add Payments, Merchant Payments, Loan Sandbox).  
 - Handling cross-module UI/UX refinements.  
 
 ---
@@ -88,7 +92,7 @@ Detailed week-by-week updates are available [here](https://github.com/openMF/mob
 
 ## 4. Current Status
 - **Android Client**: CMP migration PRs merged, bug fixes completed.  
-- **Mobile Wallet**: UPI payment flow PRs in draft/review; backend clarifications pending.  
+- **Mobile Wallet**: UPI payment flow and AutoPay PRs in draft/review; backend clarifications pending.  
 - **Documentation**: Jira tickets created and parented under master tickets.  
 
 ---
@@ -97,7 +101,7 @@ Detailed week-by-week updates are available [here](https://github.com/openMF/mob
 For future contributors:
 - Complete review & merge of draft PRs in `mobile-wallet`.  
 - Connect UPI frontend flows with backend APIs once integration clarifications are resolved.  
-- Extend Merchant Payments and AutoPay modules as planned.  
+- Extend Payments and AutoPay modules as planned.  
 
 ---
 
