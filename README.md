@@ -73,6 +73,7 @@ _(More PRs linked in weekly updates)_
 - [#1908](https://github.com/openMF/mobile-wallet/pull/1908) – Setup AutoPay feature (draft)
 - [#1909](https://github.com/openMF/mobile-wallet/pull/1909) - implement autopay dashboard (draft)
 - [#1910](https://github.com/openMF/mobile-wallet/pull/1910) - biller and bills setup (draft)
+- [
 - [#1912](https://github.com/openMF/mobile-wallet/pull/1912) - see all; sorting; empty state; per-tab scroll; top bar
 - [#1913](https://github.com/openMF/mobile-wallet/pull/1913) - resolve overlapping screens during transitions
 
@@ -113,7 +114,8 @@ You are free to share and adapt the material, provided you give appropriate cred
 
 ## 7. References
 - Jira tickets: [MW-211](https://mifosforge.jira.com/browse/MW-211)
-- Midterm presentation: [Biplab_Dutta_C4GT_2025_Midpoint_Slides.pdf](https://github.com/biplab1/c4gt-2025-mifos-docs/blob/main/Biplab_Dutta_C4GT_2025_Midpoint_Slides.pdf)
+- Midpoint presentation: [Biplab_Dutta_C4GT_2025_Midpoint_Slides.pdf](https://github.com/biplab1/c4gt-2025-mifos-docs/blob/main/Biplab_Dutta_C4GT_2025_Midpoint_Slides.pdf)
+- Endpoint presentation: [Biplab_Dutta_Endpoint_Presentaion_C4GT_2025.pdf](https://github.com/biplab1/c4gt-2025-mifos-docs/blob/main/Biplab_Dutta_Endpoint_Presentaion_C4GT_2025.pdf)
 - [Mifos Initiative](https://mifos.org/)  
 - [C4GT Program](https://codeforgovtech.in/)  
 - [Mobile Wallet Repository](https://github.com/openMF/mobile-wallet)  
