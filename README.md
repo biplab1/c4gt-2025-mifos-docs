@@ -73,9 +73,9 @@ _(More PRs linked in weekly updates)_
 - [#1908](https://github.com/openMF/mobile-wallet/pull/1908) – Setup AutoPay feature (draft)
 - [#1909](https://github.com/openMF/mobile-wallet/pull/1909) - implement autopay dashboard (draft)
 - [#1910](https://github.com/openMF/mobile-wallet/pull/1910) - biller and bills setup (draft)
-- [
 - [#1912](https://github.com/openMF/mobile-wallet/pull/1912) - see all; sorting; empty state; per-tab scroll; top bar
 - [#1913](https://github.com/openMF/mobile-wallet/pull/1913) - resolve overlapping screens during transitions
+- [#1915](https://github.com/openMF/mobile-wallet/pull/1915) - etup autopay management (draft)
 
 ### Learnings
 - UPI payment flow design & integration patterns.  
